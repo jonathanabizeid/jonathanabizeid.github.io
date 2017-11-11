@@ -8675,7 +8675,7 @@ a.text-dark:hover {
 
 
 .page-mid-color {
-	background-color:#4cffd5
+	background-color:#e5f2e5
 }
 
 .page-side-color {
@@ -8688,6 +8688,23 @@ a.text-dark:hover {
 
 .the-redtext-jon{
 	color: #df0a16
+}
+
+#navlinkcolor{
+	font-size: 110%;
+	 font-family: "Times New Roman", Times, serif;
+	color: #ffffff
+}
+
+.para-div{
+	background-color:grey; 
+	text-align:center;
+	font-family: 'Times New Roman', Times, serif;
+	font-size:130%;
+	background-color:#e5f2e5;
+	border-radius: 25px;
+	border: 2px solid #004000;
+	
 }
 
 

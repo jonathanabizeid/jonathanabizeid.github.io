@@ -102,10 +102,18 @@
           zoom: 15,
           center: uluru
         });
-        var marker = new google.maps.Marker({
-          position: uluru,
+        
+			marker({lat: 34.123706,  lng: 35.651033});
+		marker({lat: 34.125589,  lng: 35.652505});
+		
+		
+		
+		function marker(coords){
+			var marker = new google.maps.Marker({
+          position: coords,
           map: map
         });
+		}
       }
     </script>
     <script async defer

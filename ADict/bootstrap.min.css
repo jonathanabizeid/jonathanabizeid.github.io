@@ -588,8 +588,6 @@ mark {
 .img-thumbnail {
     padding: .25rem;
     background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: .25rem;
     transition: all .2s ease-in-out;
     max-width: 100%;
     height: auto
@@ -6006,12 +6004,12 @@ a.bg-light:hover {
 }
 
 .bg-dark {
-    background-color: #F2F2F2!important
+    background-color: #fafafa!important
 }
 
 a.bg-dark:focus,
 a.bg-dark:hover {
-    background-color: #F2F2F2!important
+    background-color: #fafafa!important
 }
 
 .bg-white {
@@ -8675,7 +8673,7 @@ a.text-dark:hover {
 
 
 .page-mid-color {
-	background-color:#e50000
+	background-color:#F2F2F2
 }
 
 .page-side-color {
@@ -8696,10 +8694,9 @@ a.text-dark:hover {
 
 .top-photo-jon{
 	color:#e50000; 
-	text-align:left; 
-	font-size:150%; 
-	background-color:#F2F2F2;  
-	display:inline-block;
+	text-align:left;
+	font-size:100%; 
+	background-color:#ffffff;
 }
 
 .like-content {
